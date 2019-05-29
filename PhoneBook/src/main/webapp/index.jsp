@@ -1,5 +1,4 @@
-<html>
-<body>
-<h2>Hello World!</h2>
-</body>
-</html>
+
+<a href="phoneBookEntryAddForm">Add Phone Book Entry</a>
+<BR>
+<a href="searchPhoneBookEntry">Search For Phone Book Entry</a>
